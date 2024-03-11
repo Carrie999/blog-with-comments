@@ -7,26 +7,32 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-            Hey, I'm a Senior Software Engineer at Company. I enjoy working with
-            Next.js and crafting beautiful front-end experiences.
+            Hey, I am Carrie
           </h1>
           <p>
-            This portfolio is built with Next.js and a library called next-mdx.
-            It allows you to write Markdown and focus on the content of your
-            portfolio.
+            Currently I am a digital nomad.
+            In the past few years, I have been engaged in UI design for one year and front-end development for about five years, working in several companies in Beijing.
+            I enjoy appreciating art and design, such as installation art, drawing, and interior design.
+            I enjoy exploring things I don't know and doing things I haven't done before.
+            I also know a little Japanese, some server technology, some Blender for 3d modeling, UE5 for game development.
+            I listen to a lot of music, read a lot of books, play many games, and have been to many places.
+            I do stock trading.
+            I want to find something different to do.
+          </p>
+          <p>
+            you can contact with me email: 771685809@qq.com
           </p>
 
-          <p>Deploy your own in a few minutes.</p>
         </div>
       </Container>
 
       <div className="container max-w-4xl m-auto px-4 mt-20">
-        <Image
+        {/* <Image
           src="/desk.jpg"
           alt="my desk"
           width={1920 / 2}
           height={1280 / 2}
-        />
+        /> */}
       </div>
     </>
   );

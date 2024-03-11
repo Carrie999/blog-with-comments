@@ -14,10 +14,10 @@ export default function MyApp({ Component, pageProps }: AppProps) {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
-          name="description"
-          content="Clone and deploy your own Next.js portfolio in minutes."
+          name="carrie"
+          content="Personal Introduction"
         />
-        <title>My awesome blog</title>
+        <title>blog - carrie</title>
       </Head>
 
       <Header />
