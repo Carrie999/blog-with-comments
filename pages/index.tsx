@@ -10,7 +10,7 @@ function HomePage() {
             Hey, I am Carrie
           </h1>
           <p>
-            Currently I am a digital nomad.
+            I am a digital nomad now.
             In the past few years, I have been engaged in UI design for one year and front-end development for about five years, working in several companies in Beijing.
             I enjoy appreciating art and design, such as installation art, drawing, and interior design.
             I enjoy exploring things I don't know and doing things I haven't done before.
@@ -20,7 +20,7 @@ function HomePage() {
             I want to find something different to do.
           </p>
           <p>
-            you can contact with me email: 771685809@qq.com
+            You can contact me by email: 771685809@qq.com
           </p>
 
         </div>
