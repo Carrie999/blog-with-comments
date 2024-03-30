@@ -1,9 +1,10 @@
 {
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "npm run kill; next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "kill": "lsof -ti :3000 >/dev/null && lsof -ti :3000  | xargs kill -9"
   },
   "dependencies": {
     "@auth0/auth0-react": "^1.12.0",
