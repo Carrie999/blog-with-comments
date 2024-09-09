@@ -51,6 +51,9 @@ https://apps.apple.com/us/app/soulwanderer/id6584520522
 
 ### 我得到了一个非常用心的评论
 
+![图片描述](/comment.png)
+
+
 > ### 很有反思性的 AVG 5
 > 作者：PIXEL Todd – 2024 年 8 月 15 日
 >
